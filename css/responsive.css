@@ -1,0 +1,529 @@
+@media (min-width:320px) and (max-width:575.98px){
+
+    nav ul li {
+        margin-left: 0;
+    }
+
+    nav ul li a::after {
+        left: 0;
+        transform: translateX(0);
+    }
+    
+    nav ul li .dropdown {
+        top: 15px;
+        left: 106px;
+        z-index: 5;
+    }
+
+    #bannar-part h1 {
+        font-size: 28px; 
+        width: auto;
+        line-height: 131%;
+        margin: 59px 0 24px 0;
+    }
+
+    #bannar-part p {
+        width: auto;
+        line-height: 29px;
+    }
+
+    #bannar-part .search input {
+        width: 44%;     
+        padding: 14px;       
+    }
+
+    #bannar-part .search i {
+        display: none;
+    }
+
+    #bannar-part .search {
+        margin-top: 36px;
+    }
+
+    #bannar-part .search input::placeholder{
+        font-size: 12px;
+    }
+
+    #bannar-part .search button {
+        padding: 9px 119px;
+        position: relative;
+        top: 58px;
+        right: 300px;
+    }
+
+    #bannar-part .box .item {
+        width: 49%;
+    }
+
+    #bannar-part .box {
+        display: flex;
+        width: auto;
+        flex-wrap: wrap; 
+        margin-top: 99px;
+    }
+
+    #bannar-part .box .item h2 {
+        margin-top: 30px;
+        font-size: 35px;
+    }
+
+    #bannar-part .box .item p {
+        font-size: 14px;
+        width: auto;
+    }
+
+    #bannar-part p {
+        line-height: 21px;
+    }
+
+    #bannar-part img {
+        margin-top: -168px;
+    }
+
+    #properti-part h2 {
+        font-size: 27px;
+        width: auto;
+        line-height: 140%;
+        margin-top: 84pxpx;
+    }
+
+    #properti-part .item {
+        margin: 50px 0 100px 0;
+        border: 1px solid #EEEDDE;
+    }
+
+    #properti-part .col-lg-4{
+        margin-top: -84px;
+    }
+
+    #properti-part .row {
+        margin-top: 100px;
+    }
+
+    #residen-part h4 {    
+        line-height: 96%;
+    }
+
+    #residen-part .up-img {
+        display: none;
+    }
+
+    #residen-part p {
+        padding: 31px 0 0px 0;
+    }
+
+    #residen-part img {
+        padding: 49px 0 163px 0;
+        width: 100%;
+    }
+
+    #residen-part h5 {
+        font-size: 28px;      
+        line-height: 140%;
+        margin-top: -87px;
+    }
+
+    #residen-part h6 {
+        font-size: 16px;
+        line-height: 27px;
+        padding: 17px 0 48px 0;
+    }
+
+    #residen-part .explore {
+	padding-left: 8px;
+    }
+
+    #residen-part a i {
+        display: none;
+    }
+
+    #residen-part a {
+        font-size: 14px;
+        padding: 8px;
+        margin-right: 3px;
+        margin-bottom: 30px;
+    }
+    #berbagai-part h2 {
+        line-height: 140%;
+    }
+
+    #berbagai-part .icons {
+        top: 6px;
+        right: -2px;
+    }
+
+    #magnolia-part .item img {
+        width: 100%;
+        margin-top: 21px;
+    }
+
+    #magnolia-part p {
+        font-size: 16px;
+        line-height: 28px;
+        margin-top: 12px;
+    }
+
+    #kami-part .item {
+        display: block;
+    }
+   
+    #kami-part .box2 {
+        width: 306px;
+        height: 178px;
+        margin: 28px 0 48px 0;
+    }
+
+    #kami-part .box {
+        width: 300px;
+        margin: 63px 0 32px 0;
+    }
+
+    #kami-part .item-right .two-img {
+        display: block;
+        margin-top: 25px;
+    }
+
+    #kami-part .item-right .two-img .img2 {
+        margin-left: 18px;
+        margin-top: -21px;
+    }
+
+    #kami-part .item-right .two-img img{
+        margin-left: 17px;
+    }
+
+    #kami-part h2 {
+        margin-top: 70px;
+    }
+
+    #footer-part .footer-icons {
+        margin-top: -60px;
+    }
+
+    #footer-part .footer-icons i {
+        margin-right: 23px;
+    }
+    /*=======================*/
+}
+
+@media (min-width:576px) and (max-width:767.98px){
+    nav ul li {
+        margin-left: 0;
+    }
+
+    nav ul li a::after {
+        left: 0;
+        transform: translateX(0);
+    }
+    
+    nav ul li .dropdown {
+        top: 15px;
+        left: 106px;
+        z-index: 5;
+    }
+
+    #bannar-part h1 {
+        width: auto;
+        line-height: 140%;
+    }
+
+    #bannar-part .search {
+        width: auto;
+        margin-top: 20px;
+    }
+
+    #bannar-part input::placeholder{
+        font-size: 14px;
+    }
+
+    #bannar-part .search input {
+        padding: 23px 0 23px 36px;
+    }
+
+    #bannar-part .search i {
+        top: 57%;
+        left: 16px;
+    }
+
+    #berbagai-part .icons {
+        position: absolute;
+        top: 7px;
+        right: 91px;
+    }
+
+    #bannar-part .box {
+        width: 525px;
+        margin: 61px 0 60px 0;
+    }
+
+    #bannar-part img{
+        display: none;
+    }
+
+    #properti-part .item {
+        width: auto;
+        margin: 38px 0 60px 0;
+    }
+
+    #residen-part .up-img {
+        left: 86px;
+    }
+
+    #residen-part h5{
+        margin-top: 55px;
+    }
+
+    #residen-part a {
+        margin-right: 11px;
+        margin-bottom: 30px;
+    }
+
+    #magnolia-part .item img {
+        width: 100%;
+        height: 100%;
+    }
+
+    #kami-part .box {
+        width: 329px;
+        height: 174px;
+    }
+
+    #kami-part .box i {
+        font-size: 31px;
+    }
+
+    #kami-part .box .contact h6 {
+        font-size: 14px;
+    }
+
+    #kami-part .box .contact p {
+        font-size: 14px;
+    }
+
+    #kami-part .box .contact {
+        right: 26px;
+    }
+
+    #kami-part .box a {
+        padding: 10px 49px;
+    }
+
+    #kami-part .box2 {
+        width: 329px;
+        height: 174px;
+    }
+
+    #kami-part .box2 i {
+        font-size: 31px;
+    }
+
+    #kami-part .box2 .contact h6 {
+        font-size: 14px;
+    }
+
+    #kami-part .box2 .contact p {
+        font-size: 14px;
+    }
+
+    #kami-part .box2 .contact {
+        right: 26px;
+    }
+
+    #kami-part .box2 a {
+        padding: 10px 49px;
+    }
+
+    #kami-part .box2 {
+        width: 393px;
+    }
+
+    #kami-part .box2 {
+        margin-right: -17px;
+    }
+
+    #kami-part .item-right .two-img {
+        margin: 60px 0 30px 0;
+    }
+
+    #footer-part .footer-icons {
+        margin-top: -56px;
+    }
+    /*=========================*/
+}
+
+@media (min-width:768px) and (max-width:991.98px){
+    nav ul li {
+        margin-left: 0;
+    }
+
+    nav ul li a::after {
+        left: 0;
+        transform: translateX(0);
+    }
+    
+    nav ul li .dropdown {
+        top: 15px;
+        left: 106px;
+        z-index: 5;
+    }
+
+    #bannar-part h1 {
+        width: auto;
+        line-height: 124%;
+        margin: 100px 0 24px 0;
+    }
+
+    #bannar-part .search {
+        margin-top: 30px;
+    }
+
+    #bannar-part .box {
+        width: auto;
+        margin: 62px 0 60px 0;
+    }
+
+    #bannar-part img{
+        display: none;
+    }
+
+    #properti-part .item {
+        width: auto;
+        margin: 64px 0 30px 0;
+    }
+
+    #residen-part a {
+        margin-bottom: 30px;
+    }
+
+    #berbagai-part .icons {
+        top: -81px;
+    }
+
+    #magnolia-part .item img {
+        width: 100%;
+        height: auto;
+    }
+
+    #magnolia-part h3 {
+        font-size: 21px;
+        margin-top: 20px;
+    }
+
+    #magnolia-part p {
+        font-size: 15px;
+        line-height: 27px;
+    }
+
+    #magnolia-part p::after {
+        width: 38%;
+    }
+
+    #kami-part .col-lg-4{
+        margin-top: -7px;
+    }
+
+    #kami-part .item-right .two-img {
+        display: flex;
+       margin: 63px 0 30px 0;
+    }
+
+    #kami-part .item-right h1 {
+        margin-top: 105px;
+    }
+
+    #kami-part .item-right{ 
+        display: flex;
+    }
+
+    #footer-part .footer-icons {
+        margin-top: -53px;
+    }
+   /*==========================*/ 
+}
+
+@media (min-width:992px) and (max-width:1199.98px){
+    nav ul li {
+        margin-left: 58px;
+    }
+
+    #bannar-part h1 {
+        width: 762px;
+        line-height: 132%;
+        font-size: 48px;
+    }
+
+    #bannar-part .search {
+        width: 588px;
+    }
+
+    #bannar-part img {
+        margin-top: 18px;
+    }
+
+    #bannar-part .box {
+        width: 527px;
+        margin: 47px 0 46px 0;
+    }
+
+    #residen-part img {
+        width: 65%;
+    }
+
+    #residen-part .up-img {
+        top: 57px;
+        left: 100px;  
+        width: 94%;
+    }
+
+    .col-lg-6 {
+        padding-left: 30px;
+    }
+
+    #residen-part a {
+        padding: 13px 34px 13px 45px;
+        margin-right: 13px;
+        font-size: 14px;
+    }
+   
+    #residen-part a i {
+        left: 20px;
+    }
+
+    #residen-part h5 {
+        margin-top: 43px;
+    }
+
+    #magnolia-part .item img {
+        width: 100%;
+    }
+
+    #magnolia-part h3 {
+        font-size: 25px;
+        margin-top: 20px;
+    }
+
+    #kami-part .item-right .two-img .img2 {
+        margin-left: -7px;
+    }
+
+    #magnolia-part .row{
+        margin-bottom: 20px;
+    }
+
+    #kami-part .box {
+        margin-right: 28px;
+    }
+
+    img, svg {
+        margin-left: 0px;
+    }
+
+    #kami-part .box2 .contact {
+        right: 22px;
+    }
+
+    #kami-part .row{
+        padding-top: 20px;
+    }
+/*==========================*/ 
+}
